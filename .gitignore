@@ -1,4 +1,4 @@
 # 업로드하면 안되는 파일만을 명시
 #예를 들어 node_modules
 
-/node_modules
+**node_modules
